@@ -411,7 +411,11 @@ img {
 ```
 
 ## OUTPUT:
-  
+![WhatsApp Image 2025-08-06 at 21 51 40_d296f4b4](https://github.com/user-attachments/assets/f57cb040-565d-4051-9b7e-a7853d662fc2)
+![WhatsApp Image 2025-08-06 at 21 51 53_5c2070ce](https://github.com/user-attachments/assets/1124ce83-2585-4c14-843d-a27b94dccad8)
+![WhatsApp Image 2025-08-06 at 21 52 18_095c0061](https://github.com/user-attachments/assets/a43b7629-11a2-4669-a2b4-8f1e391ba4d7)
+
+![WhatsApp Image 2025-08-06 at 21 52 33_7b656eb8](https://github.com/user-attachments/assets/1f207488-cf9f-4461-ad3e-06fb65fca176)
 
 
 ## RESULT
